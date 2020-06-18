@@ -1,4 +1,4 @@
-package con.breakpoint;
+package com.breakpoint;
 
 /**
  * Hello world!

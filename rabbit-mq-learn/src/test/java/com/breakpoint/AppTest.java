@@ -1,4 +1,4 @@
-package con.breakpoint;
+package com.breakpoint;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

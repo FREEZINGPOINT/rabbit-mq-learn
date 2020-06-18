@@ -1,4 +1,4 @@
-package con.breakpoint.simple;
+package com.breakpoint.simple;
 
 import org.junit.Test;
 
